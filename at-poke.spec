@@ -9,6 +9,8 @@ Source0:	http://ftp.gnome.org/pub/GNOME/sources/%{name}/0.2/%{name}-%{version}.t
 # Source0-md5:	e8e1c2907b96ded42f81ab045728a8d7
 URL:		http://developer.gnome.org/projects/gap/
 BuildRequires:	at-spi-devel >= 1.3.12
+BuildRequires:	gail-devel
+BuildRequires:	gcc-c++
 BuildRequires:	gtk+2-devel >= 1:2.0.0
 BuildRequires:	libgail-gnome-devel
 BuildRequires:	libglade2-devel >= 2.0.0
