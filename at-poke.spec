@@ -1,12 +1,12 @@
 Summary:	Tool for poking around with accessibility support
 Summary(pl):	Narzêdzie do gmerania ze wsparciem dla u³atwieñ dostêpu
 Name:		at-poke
-Version:	0.2.2
+Version:	0.2.3
 Release:	1
 License:	LGPL
 Group:		X11/Applications
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/%{name}/0.2/%{name}-%{version}.tar.bz2
-# Source0-md5:	e8e1c2907b96ded42f81ab045728a8d7
+# Source0-md5:	4ba8187038922c2afb2d83fad996b2e2
 URL:		http://developer.gnome.org/projects/gap/
 BuildRequires:	at-spi-devel >= 1.3.12
 BuildRequires:	autoconf
