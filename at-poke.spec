@@ -1,5 +1,5 @@
 Summary:	Tool for poking around with accessibility support
-Summary(pl):	Narzêdzie do gmerania ze wsparciem dla u³atwieñ dostêpu
+Summary(pl.UTF-8):   NarzÄ™dzie do gmerania ze wsparciem dla uÅ‚atwieÅ„ dostÄ™pu
 Name:		at-poke
 Version:	0.2.3
 Release:	1
@@ -21,8 +21,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This is a tool for poking around with accessibility support.
 
-%description -l pl
-Narzêdzie do gmerania ze wsparciem dla u³atwieñ dostêpu.
+%description -l pl.UTF-8
+NarzÄ™dzie do gmerania ze wsparciem dla uÅ‚atwieÅ„ dostÄ™pu.
 
 %prep
 %setup -q
