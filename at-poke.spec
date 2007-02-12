@@ -1,5 +1,5 @@
 Summary:	Tool for poking around with accessibility support
-Summary(pl.UTF-8):   Narzędzie do gmerania ze wsparciem dla ułatwień dostępu
+Summary(pl.UTF-8):	Narzędzie do gmerania ze wsparciem dla ułatwień dostępu
 Name:		at-poke
 Version:	0.2.3
 Release:	1
